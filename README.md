@@ -6,4 +6,4 @@
 
 - El **Artículo para el SPIE** puede verse [aquí](./131371H.pdf) y el **cartel** relacionado con el artículo puede verse [aquí](./poster_R.pdf).
 
-- La **Tesis de Maestría** puede verse [aquí](./tesisCICESE.pdf) y para una mejor apreciación del mismo puede descargarse desde el repositorio institucional del CICESE desde [aquí](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756).
+- La **Tesis de Maestría** puede verse [aquí](./tesisCICESE.pdf) y para una mejor apreciación de la misma puede descargarse desde el repositorio institucional del CICESE desde [aquí](https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=26756).
